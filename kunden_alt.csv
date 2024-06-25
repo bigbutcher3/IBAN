@@ -1,0 +1,6 @@
+Kundennr;Vorname;Nachname;Strasse;PLZ;Ort;ISOA2Code;Land;Kontonummer;BLZ;BIC;IBAN;Flag
+10000;Sandro;Messerschmitt;Alte Heide 4;80805;München;DE;Deutschland;70110088;121254879;PBNKDEFFXXX;DE71701100880121254879;0
+10001;Rieke;Schuster;Alleestraße 106;73730;Esslingen am Neckar;DE;Deutschland;61150020;778989654;ESSLDE66XXX;DE82611500200778989654;0
+10002;Simone;Sanft;Zuckerbergstraße 2;70378;Stuttgart;DE;Deutschland;60080086;98744465;DRESDEFFI54;;2
+10003;Manfred-Claudio;Wagner;Hamburger Allee 67;30161;Hannover;DE;Detuschland;25055500;4785146589;NOLADE21LBS;DE08250555004785146584;1
+10004;Egbert;Süßmuth;Wiesenstraße 56;13357;Berlin;DE;Deutschland;10070000;4587854458;DEUTDEBBXXX;DE26100700004587854458;0
